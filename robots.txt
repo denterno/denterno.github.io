@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://denterno.github.io/sitemap.html.gz
+Sitemap: https://denterno.github.io/app/sitemap.html.gz
+Sitemap: https://denterno.github.io/assets/sitemap.html.gz
+Sitemap: https://denterno.github.io/css/sitemap.html.gz
+Sitemap: https://denterno.github.io/includes/sitemap.html.gz
+Sitemap: https://denterno.github.io/item/sitemap.html.gz
+Sitemap: https://denterno.github.io/src/sitemap.html.gz
